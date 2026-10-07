@@ -1,0 +1,33 @@
+{
+  "prompts": 117,
+  "interactionChecks": "passed",
+  "layouts": [
+    {
+      "width": 1440,
+      "enlargedFont": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 768,
+      "enlargedFont": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 390,
+      "enlargedFont": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 320,
+      "enlargedFont": true,
+      "horizontalOverflow": false
+    }
+  ],
+  "scriptErrors": [],
+  "missingImages": [],
+  "imageLoadFailures": [],
+  "sourcePreserved": true,
+  "sourceSha256": "2b6fb767a33b553c59833801322ec7cc7983844d53f0694a8f2ee733cd8d85f0",
+  "uniqueExampleImages": 117,
+  "simulatedReferences": 5
+}
